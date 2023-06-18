@@ -1,0 +1,30 @@
+body {
+    background-image: url('./images/CidadeColor/cidadeRed.jpeg');
+  background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o elemento */
+  background-position: center; /* Centraliza a imagem no elemento */
+  background-repeat: no-repeat; /* Evita a repetição da imagem */
+}
+
+
+.card {
+    border-radius: 20px;
+    
+}
+
+#automatic {
+    width: 370px;
+}
+
+.card-header {
+    background-color: rgb(41, 41, 41);
+}
+
+.Buttons {
+    background-color: rgb(224, 224, 224);
+    border-radius: 20px;
+    height: 230px;
+}
+
+.buttonsDiv button {
+    width: 120px;
+}
